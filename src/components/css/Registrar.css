@@ -1,0 +1,31 @@
+.TituloR {
+    font-size: 62px;
+    color: black;
+    margin-bottom: 0;
+}
+
+.SubR {
+    font-size: 42px;
+}
+
+.SiuR {
+    font-size: 100px;
+}
+
+.LabelR {
+    font-size: 26px;
+    color: #fff;
+    font-weight: bold;
+}
+
+.InputR {
+    height: 42px;
+}
+
+.LabeloR {
+    color: #fff;
+}
+
+.HiperR {
+    color: #fff;
+}
